@@ -12,9 +12,12 @@
 * Melee Attacks: 1H weapons deal 1 damage with melee attacks.  2H weapons deal 2 damage. Melee-specific weapons have their own damage. A melee attack is a Melee/HalfSTR vs Fortitude. 
 * Change name of Charisma to Willpower?
 
+#################################
+# Blue Shift v0.1.2015.09.....
+
 
 #################################
-# Blue Shift v0.1.2015.08....
+# Blue Shift v0.1.2015.09.11
 
 ## Races
 * Removed defense boosts from all races. It made a single defense too high when specialized and never compensated for anything.
