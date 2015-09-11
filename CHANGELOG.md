@@ -1,16 +1,12 @@
 
 ### TODO: 
-* Make biotic force a flat number that subtracts their mass? (force of 5 pushing mass 3 pushes 2 spaces)
 * Fitness -> Immunity: grants immunity to impairment effects. This should mean slowing effects, lifting, etc.  not impairment penalty. 
-* Melee attacks should bypass shields
 * On 0 outcome, let the character chose "no progress" or "success at a cost"
 * Create Archetypes
 * Write descriptions for each species
 * "You always have enough thermal clips unless you are in a dire situation
-* Persistent damage does not 
+* Persistent damage does not take advantage of vulnerabilities unless the persistent damage type, itself, takes advantage of that vulnerability.
 
-### Development Notes
-* Check out Fallout D6 Karma system
 
 ### Testing
 * Melee Attacks: 1H weapons deal 1 damage with melee attacks.  2H weapons deal 2 damage. Melee-specific weapons have their own damage. A melee attack is a Melee/HalfSTR vs Fortitude. 
@@ -50,6 +46,7 @@
 
 ### Weapons
 * Grenade: Damage, Area, and Range increased to 5. Cost increased to 500c
+* Grenade: Grenades are now electromagnetically charged allowing them to adhere to surfaces shortly after thrown. This prevents them from just being thrown back.
 * M-4 Shuriken: Given Sidearm property.
 * Sidearm: Property defined. Weapons with the sidearm property can be drawn, holstered, or reloaded for 2 AP
 
